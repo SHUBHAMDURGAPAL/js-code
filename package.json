@@ -1,0 +1,8 @@
+{
+  "name": "string-calculator",
+  "version": "1",
+  "description": "String calculator",
+  "main": "SpecRunner.html",
+  "scripts": {
+    "test": "karma start"
+  }
